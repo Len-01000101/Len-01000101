@@ -1,13 +1,10 @@
   <h1>
-    Bio:   <iframe>
-      <img src="https://gh-stats.com/api/Len-01000101"align="right">
-    </iframe>
+    Bio:<img src="https://gh-stats.com/api/Len-01000101"align="right">
   </h1>
   <p align=right>
-    Hello! I'm Everett, I'm a 15 year old Sophomore currently enrolled in <code>static public school CedarFallsHS()</code> [C# pun]
-    I'm very creative and LOVE making cool new thingys! I love to learn and do the <code>Mathf.Abs(float.MaxValue);</code> [More C# puns]
-    As the creator I am and aim to be, I would like to work either at or
-    with one of many companies including but not limited to:
+    Hello! I'm Everett, I'm a 15 year old Sophomore currently enrolled in <code>static public school CedarFallsHS()</code> [C# pun]<br>
+    I'm very creative and LOVE making cool new thingys! I love to learn and do the <code>Mathf.Abs(float.MaxValue);</code> [More C# puns]<br>
+    As the creator I am and aim to be, I would like to work either at or with one of many companies including but not limited to:
   </p>
   <ul>
       <li>Cloudflare</li>
