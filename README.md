@@ -1,5 +1,5 @@
   <h1>
-    Bio:   <img src="https://gh-stats.com/api/Len-01000101 theme=onyx&widgets=impact%2Cstreaks%2Ccollaborators%2Cfocus%2Clanguages%2Cgrade%2Cachievements&streaks.color=%23a78bfa&impact.line_color=%23a78bfa&grade.max_tags=6&languages.max_languages=10&achievements.max_items=10" alt="Len-01000101" align="right"/>
+    Bio:   <iframe src="https://gh-stats.com/api/Len-01000101"align="right"/>
   </h1>
   <p align=right>
     Hello! I'm Everett, I'm a 15 year old Sophomore currently enrolled in <code>static public school CedarFallsHS()</code> [C# pun]
