@@ -1,5 +1,5 @@
   <h1>
-    Bio:   <iframe src="https://gh-stats.com/api/Len-01000101"align="right"/>
+    Bio:   <iframe src="https://gh-stats.com/api/Len-01000101"align="right"></iframe>
   </h1>
   <p align=right>
     Hello! I'm Everett, I'm a 15 year old Sophomore currently enrolled in <code>static public school CedarFallsHS()</code> [C# pun]
